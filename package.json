@@ -16,7 +16,7 @@
   "license": "MIT",
   "readmeFilename": "README.md",
   "dependencies": {
-    "async": "~0.2.10",
+    "async": "~2.6.4",
     "geojson-area": "^0.1.0",
     "ngeohash": "0.6.0",
     "point-in-polygon": "0.0.0",
